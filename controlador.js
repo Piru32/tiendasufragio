@@ -103,6 +103,37 @@ let producto15={
     estado:"Nuevo",
     foto:""
 }
+let producto16={
+    nombre:"producto14",
+    precio:500000,
+    estado:"Nuevo",
+    foto:""
+}
+let producto17={
+    nombre:"producto14",
+    precio:500000,
+    estado:"Nuevo",
+    foto:""
+}
+let producto18={
+    nombre:"producto14",
+    precio:500000,
+    estado:"Nuevo",
+    foto:""
+}
+let producto19={
+    nombre:"producto14",
+    precio:500000,
+    estado:"Nuevo",
+    foto:""
+}
+let producto20={
+    nombre:"producto14",
+    precio:500000,
+    estado:"Nuevo",
+    foto:""
+}
+
 
 //ARREGLO
 let productos=Array(
@@ -120,7 +151,12 @@ let productos=Array(
     producto12,
     producto13,
     producto14,
-    producto15
+    producto15,
+    producto16,
+    producto17,
+    producto18,
+    producto19,
+    producto20
 )
 
 //RECORRO EL ARREGLO
